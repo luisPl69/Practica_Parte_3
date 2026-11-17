@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Archivos de compilacion
+dist/
+build/
+
+# Archivos locales
+*.local
+.DS_Store
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
