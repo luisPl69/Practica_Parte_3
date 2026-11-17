@@ -6,7 +6,6 @@ Proyecto de práctica que construye **la misma aplicación pequeña en dos frame
 
 `https://jsonplaceholder.typicode.com/users` (solo lectura).
 
-> **Adaptaciones al enunciado:** no se levanta `json-server` local (paso 2 de la receta omitido) y no se realiza la publicación en Vercel/Netlify (paso 6 limitado a `npm run build`).
 
 ##  App 1 · Vue 3
 
